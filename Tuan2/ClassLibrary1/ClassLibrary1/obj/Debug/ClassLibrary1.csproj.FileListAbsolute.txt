@@ -1,0 +1,4 @@
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

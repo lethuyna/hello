@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\Demo\bin\Debug\Demo.exe.config
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\Demo\bin\Debug\Demo.exe
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\Demo\bin\Debug\Demo.pdb
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\Demo\obj\Debug\Demo.Form1.resources
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\Demo\obj\Debug\Demo.exe
+E:\LuuDuLieuSinhVien\2001190679_LeThuyNa\Tuan2\ClassLibrary1\Demo\obj\Debug\Demo.pdb
